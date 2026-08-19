@@ -1,67 +1,61 @@
 
 # 📄 Single-Page CV
 
-This repository contains a **single-page HTML CV** project, built as part of the [roadmap.sh](https://roadmap.sh/projects/single-page-cv) frontend practice challenge. It demonstrates the use of semantic HTML, responsive design principles, and clean structuring to create a professional online résumé.
+This repository contains my **Single-Page CV project**, built as part of the [roadmap.sh Single-Page CV Challenge](https://roadmap.sh/projects/single-page-cv).  
+It demonstrates the use of **semantic HTML**, **responsive design**, and **clean structuring** to create a professional online résumé.
 
 ---
 
 ## ✨ Features
-- **Semantic HTML5** structure for accessibility and SEO
-- **Responsive design** that adapts to desktop, tablet, and mobile
-- Sections for:
+- Semantic **HTML5** structure for accessibility and SEO  
+- **Responsive design** that adapts to desktop, tablet, and mobile  
+- Organized sections:
   - Profile / Summary
   - Education
   - Experience
   - Skills
   - Projects
-  - Contact Information
-- Minimal, clean styling for readability
-- Easy to customize with your own details
+  - Contact Information  
+- Minimal, clean styling for readability  
+- Easy to customize with your own details  
 
 ---
 
 ## 🛠️ Tech Stack
-- **HTML5** for structure
-- **CSS3** for styling (Flexbox, Grid, Animations)
-- Optional **JavaScript** for interactivity
+- **HTML5** for structure  
+- **CSS3** for styling (Flexbox, Grid, Animations)  
+- Optional **JavaScript** for interactivity  
 
 ---
 
 ## 🚀 Getting Started
 1. Clone the repository:
    ```bash
-   git clone https://github.com/IamAbinashDas/frontend-projects.git
+   git clone https://github.com/IamAbinashDas/Frontend_Projects.git
    ```
 2. Navigate to the CV project folder:
    ```bash
-   cd frontend-projects/Single_Page-CV
+   cd Frontend_Projects/Single_Page-CV
    ```
 3. Open `index.html` in your browser to view the CV.
 
 ---
 
-## 📌 Future Enhancements
-- Add **dark mode** toggle
-- Improve **accessibility** with ARIA labels
-- Deploy live demo using **GitHub Pages**
-- Expand with **React.js version** for component-based design
+## 📌 Project URL
+- **Live Demo (Localhost Example):** [http://127.0.0.1/Frontend/Single_Page-CV/index.html](http://127.0.0.1/Frontend/Single_Page-CV/index.html)  
+- **GitHub Repo:** [Frontend_Projects/Single_Page-CV](https://github.com/IamAbinashDas/Frontend_Projects/blob/main/Single_Page-CV/README.md)  
+- **Challenge Reference:** [roadmap.sh Single-Page CV Project](https://roadmap.sh/projects/single-page-cv)  
 
 ---
 
 ## 📬 Contact
 Created by **Abinash Das**  
-- Email: abinash@example.com [(example.com in Bing)](https://www.bing.com/search?q="mailto%3Aabinash%40example.com")  
+- Email: abinash@example.com  
 - GitHub: IamAbinashDas [(github.com in Bing)](https://www.bing.com/search?q="https%3A%2F%2Fgithub.com%2FIamAbinashDas")  
-- LinkedIn: [Abinash Das](https://linkedin.com/in/abinashdas)
+- LinkedIn: [Abinash Das](https://www.linkedin.com/in/abinash-das-239a17381)  
 
 ---
 
 ### 🖋️ License
-This project is licensed under the MIT License — feel free to use and modify for your own CV.
+This project is licensed under the **MIT License** — feel free to use and modify for your own CV.
 ```
-
----
-
-✨ This README gives your repo a **professional look**, explains the project clearly, and makes it easy for others (or recruiters) to understand and run your CV site.  
-
-Would you like me to also add a **preview screenshot section** (with an image placeholder) so visitors can instantly see your CV layout without opening the code?
