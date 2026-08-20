@@ -1,7 +1,7 @@
 
 # Basic HTML Website
 
-This project is a simple **multi‑section HTML website** built as part of the [roadmap.sh](https://roadmap.sh/projects/basic-html-website) learning path.  
+This project is a simple **multi‑section HTML website** .  
 It demonstrates semantic HTML structure, navigation, and layout without relying on external frameworks.
 
 ---
@@ -55,7 +55,3 @@ The layout includes:
 - Enhance accessibility with ARIA labels.
 - Expand content with real projects and articles.
 ```
-
-This README gives context for your project and makes it clear to anyone visiting your repo what the site is about and how to use it.  
-
-👉 Do you want me to also include a **screenshot section** in the README (with placeholders for images) so you can later add visuals of your site?
