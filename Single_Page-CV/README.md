@@ -1,7 +1,7 @@
 
 # 📄 Single-Page CV
 
-This repository contains my **Single-Page CV project**, built as part of the [roadmap.sh Single-Page CV Challenge](https://roadmap.sh/projects/single-page-cv).  
+This repository contains my **Single-Page CV project**.  
 It demonstrates the use of **semantic HTML**, **responsive design**, and **clean structuring** to create a professional online résumé.
 
 ---
@@ -43,8 +43,7 @@ It demonstrates the use of **semantic HTML**, **responsive design**, and **clean
 
 ## 📌 Project URL
 - **Live Demo (Localhost Example):** [http://127.0.0.1/Frontend/Single_Page-CV/index.html](http://127.0.0.1/Frontend/Single_Page-CV/index.html)  
-- **GitHub Repo:** [Frontend_Projects/Single_Page-CV](https://github.com/IamAbinashDas/Frontend_Projects/blob/main/Single_Page-CV/README.md)  
-- **Challenge Reference:** [roadmap.sh Single-Page CV Project](https://roadmap.sh/projects/single-page-cv)  
+- **GitHub Repo:** [Frontend_Projects/Single_Page-CV](https://github.com/IamAbinashDas/Frontend_Projects/blob/main/Single_Page-CV/README.md)    
 
 ---
 
