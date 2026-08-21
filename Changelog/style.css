@@ -1,0 +1,100 @@
+
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f9fafb;
+  margin: 0;
+  padding: 0;
+  color: #333;
+}
+
+.container {
+  max-width: 700px;
+  margin: 50px auto;
+  padding: 20px;
+  background: #fff;
+  border-radius: 8px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+}
+
+h1 {
+  text-align: center;
+  margin-bottom: 5px;
+}
+
+.subtitle {
+  text-align: center;
+  color: #666;
+  margin-bottom: 30px;
+}
+
+.timeline {
+  position: relative;
+  margin: 40px auto;
+  max-width: 600px;
+}
+
+/* Vertical central line */
+.timeline::before {
+  content: "";
+  position: absolute;
+  left: 50%;
+  top: -15px;
+  bottom: -15px;
+  width: 2px;
+  background: #111;
+  transform: translateX(-50%);
+}
+
+/* Timeline row layout */
+.timeline-item {
+  display: flex;
+  align-items: center;
+  position: relative;
+  margin-bottom: 28px;
+}
+
+/* Left-aligned Date */
+.timeline-item .date {
+  flex: 1;
+  text-align: right;
+  padding-right: 25px;
+  font-size: 0.95em;
+  color: #888;
+}
+
+/* Center Dot */
+.timeline-item .dot {
+  position: absolute;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 14px;
+  height: 14px;
+  background: #111;
+  border-radius: 50%;
+  z-index: 1;
+}
+
+/* Right-aligned Content */
+.timeline-item .content {
+  flex: 1;
+  text-align: left;
+  padding-left: 25px;
+  font-size: 0.95em;
+  font-weight: 500;
+  color: #111;
+  background: transparent; /* removes gray box */
+}
+
+.cta {
+  display: block;
+  margin: 40px auto 0;
+  padding: 12px 24px;
+  background: black;
+  color: #fff;
+  border: none;
+  border-radius: 6px;
+  font-size: 1em;
+  cursor: pointer;
+  transition: background 0.3s;
+}
+
