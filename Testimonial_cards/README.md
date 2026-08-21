@@ -38,6 +38,7 @@ Testimonial_cards/
 ---
 
 ## 🖼️ Preview
+<img width="904" height="1058" alt="image" src="https://github.com/user-attachments/assets/e2053fec-c870-44cb-939a-1cc8016904e6" />
 
 ---
 
