@@ -14,6 +14,11 @@ The goal is to maintain transparency, version history, and provide context for u
 ---
 
 ## 🗓️ Changelog
+🖼️ Preview
+Here’s how the changelog component looks:
+
+<img width="684" height="720" alt="Screenshot 2026-08-21 114309" src="https://github.com/user-attachments/assets/3de2b43b-9c81-4f20-991e-5c76d06757d6" />
+
 
 ### [Unreleased]
 - Planned features and upcoming improvements.
