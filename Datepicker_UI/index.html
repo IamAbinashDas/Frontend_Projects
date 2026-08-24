@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Datepicker UI</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="date-picker">
+    <div class="input-row">
+      <input
+        id="dateInput"
+        class="date-input"
+        type="text"
+        placeholder="dd / mm / yyyy"
+        aria-label="Date"
+      />
+      <button class="calendar-button" id="calendarButton" aria-label="Open calendar">
+        📅
+      </button>
+    </div>
+
+    <div class="calendar" id="calendar">
+      <div class="calendar-header">
+        <button class="nav" id="prevMonth" aria-label="Previous month">◀</button>
+        <div class="month" id="monthLabel">December 2022</div>
+        <button class="nav" id="nextMonth" aria-label="Next month">▶</button>
+      </div>
+
+      <div class="weekdays">
+        <div>S</div>
+        <div>M</div>
+        <div>T</div>
+        <div>W</div>
+        <div>T</div>
+        <div>F</div>
+        <div>S</div>
+      </div>
+
+      <div class="days" id="days"></div>
+    </div>
+  </div>
+  <script src="app.js"></script>
+</body>
+</html>
